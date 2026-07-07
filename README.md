@@ -8,7 +8,7 @@ The project includes a modern **Streamlit** web application where users can uplo
 
 ## 🚀 Live Demo
 
-👉 **Add your Streamlit deployment link here**
+👉 **(https://jswsguqfbghyinicifgrfm.streamlit.app/)**
 
 ---
 
