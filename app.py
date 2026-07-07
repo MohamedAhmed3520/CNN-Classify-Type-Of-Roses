@@ -130,42 +130,41 @@ with left:
 with right:
 
     with right:
-
-st.markdown("""
-<div class="card">
-
-<h3>🤖 Model Information</h3>
-
-<b>Framework</b><br>
-TensorFlow
-
-<br><br>
-
-<b>Task</b><br>
-Flower Classification
-
-<br><br>
-
-<b>Classes</b><br>
-5 Flower Species
-
-<br><br>
-
-<b>Dataset</b><br>
-
-<a href="https://www.kaggle.com/datasets/alxmamaev/flowers-recognition" target="_blank">
-🌸 Flowers Recognition (Kaggle)
-</a>
-
-<br><br>
-
-<small>
-4242 flower images across five classes:
-Daisy, Dandelion, Rose, Sunflower, and Tulip.
-</small>
-
-</div>
-""", unsafe_allow_html=True)
+        st.markdown("""
+        <div class="card">
+        
+        <h3>🤖 Model Information</h3>
+        
+        <b>Framework</b><br>
+        TensorFlow
+        
+        <br><br>
+        
+        <b>Task</b><br>
+        Flower Classification
+        
+        <br><br>
+        
+        <b>Classes</b><br>
+        5 Flower Species
+        
+        <br><br>
+        
+        <b>Dataset</b><br>
+        
+        <a href="https://www.kaggle.com/datasets/alxmamaev/flowers-recognition" target="_blank">
+        🌸 Flowers Recognition (Kaggle)
+        </a>
+        
+        <br><br>
+        
+        <small>
+        4242 flower images across five classes:
+        Daisy, Dandelion, Rose, Sunflower, and Tulip.
+        </small>
+        
+        </div>
+        """, unsafe_allow_html=True)
 
 # ----------------------------
 # Prediction
