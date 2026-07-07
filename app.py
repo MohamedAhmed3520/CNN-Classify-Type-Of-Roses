@@ -131,7 +131,7 @@ with right:
 
     with right:
 
-    st.markdown("""
+st.markdown("""
 <div class="card">
 
 <h3>🤖 Model Information</h3>
